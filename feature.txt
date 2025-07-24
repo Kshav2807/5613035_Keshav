@@ -1,1 +1,2 @@
 This is from newFeature branch
+Unsaved changes before stashing
