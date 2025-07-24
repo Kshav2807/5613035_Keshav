@@ -1,1 +1,2 @@
 This is my first Git assignment
+Added more content to test git log
